@@ -1,0 +1,2 @@
+# Pyhton-Project
+People who keeps most of the files and folders at one location and sometimes at confused what all files are there and surely he/she is too lazy to do it manually. So this is a python program to organize everything in appropriate folder in a single go and remove empty directories . Just save the program in the folder where all the files are located and my program will segregate each file type into their respective folders
