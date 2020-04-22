@@ -10,7 +10,7 @@ DIRECTORIES = {"HTML/CSS"  :   [".html", ".HTML", ".xhtlm", ".html5", ".xml", "C
                "AUDIOS" : [".aac", ".aa", ".aac", ".dvf", ".mp3", ".m4a", ".m4b", ".m4p"],
                "TEXT-FILES" : [".txt", ".in",".out"],
                "PDFS" : [".pdf"],
-               "PYTHOM": [".py"],
+               "PYTHON": [".py"],
                "C-CPP": [".c", ".cpp"],
                "JAVA": [".jsp", ".jspx", ".was", ".do", ".action"],
                "JAVASCRIPT": [".js"],
